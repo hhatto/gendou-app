@@ -2111,10 +2111,10 @@
   dependencies:
     deepmerge "^4.2.2"
 
-"@toruslabs/torus-embed@1.9.14":
-  version "1.9.14"
-  resolved "https://registry.yarnpkg.com/@toruslabs/torus-embed/-/torus-embed-1.9.14.tgz#6d487a735ec6e570d62a044069581dc372ab193e"
-  integrity sha512-TV6d6QjawQL59UbdfrE6CWjvPRL5lVSZkObYlkCyLcxnygOrcO6Bt4imWAaoh/dE+WrHg/MRtqcKoL+t5u4VhQ==
+"@toruslabs/torus-embed@1.10.11":
+  version "1.10.11"
+  resolved "https://registry.yarnpkg.com/@toruslabs/torus-embed/-/torus-embed-1.10.11.tgz#51329df474354ad8a269278f0bb785bfa70f55a2"
+  integrity sha512-+scD7U9to3hL0VfP9Yof1Mxdm0jFZKS5cy23GirW+RmISHGlhKPR8PtY76zc75+yt/kgj+UXp7zXVX/WJVbZBg==
   dependencies:
     "@chaitanyapotti/random-id" "^1.0.3"
     "@toruslabs/fetch-node-details" "^2.4.0"
@@ -12839,11 +12839,6 @@ unbox-primitive@^1.0.0:
     has-bigints "^1.0.0"
     has-symbols "^1.0.0"
     which-boxed-primitive "^1.0.1"
-
-underscore@1.12.1:
-  version "1.12.1"
-  resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.12.1.tgz#7bb8cc9b3d397e201cf8553336d262544ead829e"
-  integrity sha512-hEQt0+ZLDVUMhebKxL4x1BTtDY7bavVofhZ9KZ4aI26X9SRaE+Y3m83XUL1UP2jn8ynjndwCCpEHdUG+9pP1Tw==
 
 underscore@1.9.1:
   version "1.9.1"

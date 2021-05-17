@@ -22,7 +22,7 @@
     "@devprotocol/dev-kit": "^4.4.0-0",
     "@ethersproject/bignumber": "^5.1.1",
     "@nuxtjs/axios": "5.13.1",
-    "@toruslabs/torus-embed": "1.9.14",
+    "@toruslabs/torus-embed": "1.10.11",
     "ant-design-vue": "1.7.4",
     "bignumber.js": "^9.0.1",
     "core-js": "3.9.1",
